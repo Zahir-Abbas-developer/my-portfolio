@@ -26,19 +26,16 @@ const greeting = {
     "A passionate Front End Software Developer 🚀 having an experience of building different Type Website  with JavaScript / Reactjs / Nextjs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1O0v0w-HevmQjySi-wQmriaC8UElZbsuQ/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/14d8HrTcubI9CPjMfw87BxYgy6HO16iDb/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Mliaqat",
-  linkedin: "https://www.linkedin.com/in/liaqatshehzad/",
-  gmail: "liaqattops@gmail.com",
-  gitlab: "",
-  facebook: "https://www.facebook.com/muhammadl.liaqat/",
-  medium: "",
+  github: "https://github.com/Zahir-Abbas- developer",
+  linkedin: "https://www.linkedin.com/in/za hir-abbas060",
+  gmail: "zahirr060@gmail.com",
   stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -76,7 +73,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "React js",
+      skillName: "React js /Nextjs",
       fontAwesomeClassname: "fab fa-react"
     },
  
@@ -84,18 +81,12 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "Firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
+    
     {
-      skillName: "Nextjs",
+      skillName: "Redux toolkit/React Toolkit query",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: "React Toolkit query",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "Redux toolkit",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    
  
   ],
   display: true // Set false to hide this section, defaults to true
@@ -159,9 +150,9 @@ const workExperiences = {
   experience: [
     {
       role: "React JS Developer",
-      company: "I Gen Solution",
+      company: "SuperTech Institute",
       companylogo: require("./assets/images/igen.png"),
-      date: "Jul 2021 - Apr 2022",
+      date: "Jan 2019 - June 2021",
       bgColor: "#4E357B",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -174,7 +165,7 @@ const workExperiences = {
       role: "Front-End Developer",
       company: "Orcalo Holding",
       companylogo: require("./assets/images/orcalo.png"),
-      date: "Apr 2022 - Jun 2023",
+      date: "Apr 2022 - Dec 2023",
       bgColor: "#2778A6",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets: [
@@ -185,13 +176,13 @@ const workExperiences = {
     },
     {
       role: "React / Next js Developer",
-      company: "Super Tech",
-      companylogo: require("./assets/images/ngn.png"),
-      date: "Jun 2023 - Present",
+      company: "IGen Solution",
+      companylogo: require("./assets/images/igen.png"),
+      date: "July 2021 - April 2022",
       bgColor: "#2B945E",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets: [
-        "Led a team in developing web apps using HTML, CSS, Tailwind, JavaScript, React, and Next.js.",
+        " developing web apps using HTML, CSS, Material Ui, JavaScript, React, and Next.js.",
         "Consistently delivered high-quality, well-structured code.",
         "Created user-friendly interfaces, increasing  customer engagement and satisfaction.",
         "Collaborated with the backend team to integrate APIs for smooth data flow and consistency."
@@ -231,25 +222,25 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/shareMyDine.png"),
-      projectName: "Share My Dine",
+      projectName: "ClockLog",
       class: "two",
       projectDesc:
         "The Vision of the product is to have the concept of sharing your meal at the kitchen owner's location/house and create a hospitable community by having the customers as your guest and inviting them for a meal as we develop an Acquaintanceship",
-      url: "https://www.sharemydine.co.uk/",
+      url: "https://fe.dev.clocklog-frontend.developersorcalo.com/",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://app-dev.sharemydine.co.uk/authentication/signin"
+          url: "https://fe.dev.clocklog-frontend.developersorcalo.com/"
         }
       ]
     },
     {
       image: require("./assets/images/foster.png"),
-      projectName: "Foster App",
+      projectName: "PPCN",
       class: "three",
       projectDesc:
         "Foster care constitutes a system wherein a minor is placed under the care of a state-certified caregiver, often referred to as a foster parent, residing in a ward, group home, treatment facility, or a private residence.Alternatively, a recognized family member can assume this role.",
-      url: "https://fosterapp.co.uk/home",
+      url: "https://app-dev.ppcn.co.uk/",
       footerLink: [
         {
           name: "Visit Website",
@@ -259,15 +250,15 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/foster.png"),
-      projectName: "Foster App",
+      projectName: "Buzz Hr",
       class: "four",
       projectDesc:
         "Foster care constitutes a system wherein a minor is placed under the care of a state-certified caregiver, often referred to as a foster parent, residing in a ward, group home, treatment facility, or a private residence.Alternatively, a recognized family member can assume this role.",
-      url: "https://fosterapp.co.uk/home",
+      url: "https://buzzhr.co.uk/",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://fosterapp.co.uk/home"
+          url: "https://buzzhr.co.uk/"
         }
       ]
     }
