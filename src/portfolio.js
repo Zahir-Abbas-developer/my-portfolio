@@ -101,7 +101,7 @@ const educationInfo = {
       schoolName: "Apcoms University (Affiliated With UET Taxila)",
       logo: require("./assets/images/numl.png"),
       subHeader: "Bachelor in Software Engineering",
-      duration: "August 2018 - April 2022",
+      duration: "August 2018 - June 2022",
       // desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Enthusiastic  Software Engineer",
