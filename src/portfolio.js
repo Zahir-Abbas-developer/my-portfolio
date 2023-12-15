@@ -151,7 +151,7 @@ const workExperiences = {
     {
       role: "React JS Developer",
       company: "SuperTech Institute",
-      companylogo: require("./assets/images/igen.png"),
+      companylogo: require("./assets/images/supertech.jpg"),
       date: "Jan 2019 - June 2021",
       bgColor: "#4E357B",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -249,7 +249,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/foster.png"),
+      image: require("./assets/images/main-logo-buzzhr.svg"),
       projectName: "Buzz Hr",
       class: "four",
       projectDesc:
