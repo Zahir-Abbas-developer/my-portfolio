@@ -225,7 +225,7 @@ const bigProjects = {
       projectName: "ClockLog",
       class: "two",
       projectDesc:
-        "The Vision of the product is to have the concept of sharing your meal at the kitchen owner's location/house and create a hospitable community by having the customers as your guest and inviting them for a meal as we develop an Acquaintanceship",
+        "Clocklog basically an employee tracking system in which we make desktop app and web app both.Basically we tracks the employee activities time spend on a specific project task and take screenshot of the employee activities after three secs.",
       url: "https://fe.dev.clocklog-frontend.developersorcalo.com/",
       footerLink: [
         {
@@ -239,7 +239,7 @@ const bigProjects = {
       projectName: "PPCN",
       class: "three",
       projectDesc:
-        "Foster care constitutes a system wherein a minor is placed under the care of a state-certified caregiver, often referred to as a foster parent, residing in a ward, group home, treatment facility, or a private residence.Alternatively, a recognized family member can assume this role.",
+        "PPCN is a web app in which Penalty Charge Notices are issued to motorists found to be in contravention pf parking restrictions, waiting restrictions and some moving traffic offences that are treated as civil, not criminal ,offences.",
       url: "https://app-dev.ppcn.co.uk/",
       footerLink: [
         {
@@ -253,7 +253,7 @@ const bigProjects = {
       projectName: "Buzz Hr",
       class: "four",
       projectDesc:
-        "Foster care constitutes a system wherein a minor is placed under the care of a state-certified caregiver, often referred to as a foster parent, residing in a ward, group home, treatment facility, or a private residence.Alternatively, a recognized family member can assume this role.",
+        "Buzz hr is a web app in which hr announcements ,employement details ,leave off ,total leaves pendings and everything company manges from this system.",
       url: "https://buzzhr.co.uk/",
       footerLink: [
         {
