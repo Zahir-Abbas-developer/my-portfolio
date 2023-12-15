@@ -235,7 +235,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/foster.png"),
+      image: require("./assets/images/ppcn.png"),
       projectName: "PPCN",
       class: "three",
       projectDesc:
