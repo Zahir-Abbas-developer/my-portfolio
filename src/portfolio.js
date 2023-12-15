@@ -249,7 +249,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/buzzhr.svg"),
+      image: require("./assets/images/buzzhr.png"),
       projectName: "Buzz Hr",
       class: "four",
       projectDesc:
