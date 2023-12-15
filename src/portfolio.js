@@ -221,7 +221,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/clocklog.gif"),
+      image: require("./assets/images/clocklog.png"),
       projectName: "ClockLog",
       class: "two",
       projectDesc:
